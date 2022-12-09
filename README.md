@@ -1,10 +1,12 @@
-## Week2_Code_Challenge
+# Week2_Code_Challenge
 
 # Description
 
 In this project you will be building an app of voting for the cutest animal,
 You will be using alocal API and building out the fronted for our app.
-Week2-code-challenge.
+Week2-Code-Challenge.
+
+
 
 
 # Installation
@@ -14,16 +16,12 @@ To use this repo on your machine requires some simple steps
 open the Terminal command line: [CTRL+ALT+T]
 
 Clone this repository
-Change Directory: (cd Week2-Code-Challenge)
-Clone this repository:
 
 git clone https://github.com/Nimoismail/Week2_Code_Challenge
 
+Change Directory: 
 
-Change Directory:
-
-
-cd Week2-Code-Challenge
+(cd Week2-Code-Challenge)
 
 (Optional) Open it in Visual Studio Code
 
@@ -37,13 +35,19 @@ In your current folder install alocal jSON Server.
 
 npm install -g json-server
 
-Run the coomand below to launch the server
+Run the command below to launch the server
 
 json-server --watch db.json
 
 
 Check the code functionality by clicking on the Animal names enter,
 any number in the output as LIKES test the functionality of the LIKES button.
+
+
+
+Contact Informantion
+
+Incase of any enquiries or contributions, u can  email me at nimo.sheikh@student.moringaschool.com
 
 
 ## Auther
